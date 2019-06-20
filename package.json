@@ -1,0 +1,22 @@
+{
+  "name": "corgis-are-the-best",
+  "version": "0.1.0",
+  "description": "Corgi's are the best, fight me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krl87/corgis-are-the-best.git"
+  },
+  "keywords": [
+    "corgi"
+  ],
+  "author": "Kayley Luftig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krl87/corgis-are-the-best/issues"
+  },
+  "homepage": "https://github.com/krl87/corgis-are-the-best#readme"
+}
